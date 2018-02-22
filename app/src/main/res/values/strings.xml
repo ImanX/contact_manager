@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contact Manager</string>
+    <string name="making_send_sms">آماده سازی ارسال...</string>
+    <string name="sent_sms">ارسال شد.</string>
+    <string name="successfully_sent_sms">پیامک ها با موفقیت ارسال شد.</string>
+    <string name="unsuccessfully_sent_sms">مشکلی پیش آماده لطفا دوباره تلاش کنید.</string>
+    <string name="write_your_content">متن خود را بنویسید...</string>
+    <string name="new_gp">نام گروه جدید را وارد نمایید</string>
+    <string name="register">ثبت</string>
+    <string name="are_you_sure_delete">آیا اطمینان به حذف این گروه دارید؟</string>
+    <string name="illegal_char_count">تعداد کارکتر های استفاده شما بیش از حد مجاز است.</string>
+    <string name="yes">بلی</string>
+    <string name="no">خیر</string>
+</resources>
